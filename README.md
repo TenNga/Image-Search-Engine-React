@@ -27,4 +27,5 @@ This react web application will use API from unsplash website will be give free 
 
 ### Screenshot
 ![Image of app screen]
-(https://raw.githubusercontent.com/TenNga/Image-Search-Engine-React/master/imageSearchSS.JPG)
+(https://github.com/TenNga/Image-Search-Engine-React/blob/master/imageSearchSS.jpg)
+
