@@ -1,6 +1,6 @@
 # React Image Search Engine
 
-This react web application will use API from unsplash website will be give free images to give user result of any photo search and on each click on image will give user the full resolution of the image itself. 
+This React application will use API from unsplash website to give free images to users and on each click on image will display a full resolution of the image itself.Key skill used: API request with query parameter, passing of state and props between components, DOM manipulation using Ref element. 
 
 ### Applicaiton feature
 
